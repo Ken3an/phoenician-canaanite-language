@@ -13,4 +13,7 @@ A compiled list of Phoenician words with their English counter-parts, literal tr
 
 * ***Exclamation marks:*** usually placed at the beginning of a word & used to indicate uncertainty with a need to review &/or cross reference with other sources
 
-* ***Sources:*** sources should be listed and then referenced when used (with certain words needing multiple sources)
+* ***Sources:*** 
+  - sources should be listed and then referenced when used (ex: btn[2])
+  - if same word exists in several sources, reference first occurrence
+  - if no source is mentioned, implies reference to first source
