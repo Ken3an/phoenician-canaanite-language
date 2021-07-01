@@ -12,3 +12,5 @@ A compiled list of Phoenician words with their English counter-parts, literal tr
   - 8 => Voiced Velar Fricative (*IPA [ɣ]*) (sometimes written with [gh])  
 
 * ***Exclamation marks:*** usually placed at the beginning of a word & used to indicate uncertainty with a need to review &/or cross reference with other sources
+
+* ***Sources:*** sources should be listed and then referenced when used (with certain words needing multiple sources)
